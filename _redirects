@@ -1,0 +1,40 @@
+/ https://docs.konghq.com/api/
+
+# Konnect API Products - v2
+/spec/d420333f-01b0-464e-a87a-97acc92c2026/941af975-8cfa-40f7-afea-e82d248489a0 https://docs.konghq.com/konnect/api/api-products/v2/
+
+# Gateway Dev Portal - v1
+/spec/3e65edbc-364d-4762-9d3e-f13083e1b534/33cd4595-e389-4c2b-80ee-5275f25e80e1  https://docs.konghq.com/dev-portal/api/v1/
+
+# Gateway Admin - OSS (Beta) 3.4.0
+/spec/680541e5-de6e-46e5-b43d-0bd1b2369453/7df4368a-a2d1-41a3-b8de-708e86c218f4  https://docs.konghq.com/gateway/api/admin-oss/3.4.x/
+
+# Gateway Admin - OSS (Beta) 3.3.0
+/spec/680541e5-de6e-46e5-b43d-0bd1b2369453/e2a0ef29-573d-4fc4-86df-216c417f4aa9 https://docs.konghq.com/gateway/api/admin-oss/3.3.x/
+
+# Gateway Admin - EE (Beta) 3.4.0.0
+/spec/937dcdd7-4485-47dc-af5f-b805d562552f/25d728a0-cfe3-4cf4-8e90-93a5bb15cfd9 https://docs.konghq.com/gateway/api/admin-ee/3.4.0.x/
+
+# Gateway Admin - EE (Beta) 3.3.0.0
+/spec/937dcdd7-4485-47dc-af5f-b805d562552f/be79b812-46d5-4cc1-b757-b5270bf4fa60 https://docs.konghq.com/gateway/api/admin-ee/3.3.0.x/
+
+# Konnect Identity Management - v2
+/spec/5175b87f-bfae-40f6-898d-82d224387f9b/d0e13745-db5c-42d5-80ae-ef803104f5ce https://docs.konghq.com/konnect/api/identity-management/v2/
+
+# Gateway Status - v1
+/spec/9542436a-58d1-4522-a00b-32125b5940f0/5feb007a-348b-486d-8d06-92f615471d22 https://docs.konghq.com/gateway/api/status/v1/
+
+# Konnect Customizable Portal - v2
+/spec/2aad2bcb-8d82-43b3-abdd-1d5e6e84dbd6/b4539157-4ced-4df5-affa-7d790baee356 https://docs.konghq.com/konnect/api/portal/v2/
+
+# Konnect Runtime Group Config (Beta) - v2
+/spec/3c38bff8-3b7b-4323-8e2e-690d35ef97e0/16adcd15-493a-49b2-ad53-8c73891e29bf https://docs.konghq.com/konnect/api/runtime-groups-configuration/v2/
+
+# Konnect Audit Logging - v2
+/spec/e46e7742-befb-49b1-9bf1-7cbe477ab818/d36126ee-ab8d-47b2-960f-5703da22cced https://docs.konghq.com/konnect/api/audit-logs/v2/
+
+# Konnect Portal RBAC - v2
+/spec/2dad627f-7269-40db-ab14-01264379cec7/0ecb66fc-0049-414a-a1f9-f29e8a02c696 https://docs.konghq.com/konnect/api/portal-rbac/v2/
+
+# Konnect Runtime Groups - v2
+/spec/cd849478-4628-4bc2-abcd-5d8a83d3b5f2/24c1f98b-ea51-4277-9178-ca28a6aa85d9 https://docs.konghq.com/konnect/api/runtime-groups/v2/
